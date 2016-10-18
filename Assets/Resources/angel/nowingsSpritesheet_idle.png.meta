@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: ef6fe0dd70dc99942bfa9368e41bf0c7
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: nowingsSpritesheet_idle_4
+    21300002: nowingsSpritesheet_idle_5
+    21300004: nowingsSpritesheet_idle_6
+    21300006: nowingsSpritesheet_idle_7
+    21300008: nowingsSpritesheet_idle_12
+    21300010: nowingsSpritesheet_idle_13
+    21300012: nowingsSpritesheet_idle_14
+    21300014: nowingsSpritesheet_idle_15
+    21300016: nowingsSpritesheet_idle_20
+    21300018: nowingsSpritesheet_idle_21
+    21300020: nowingsSpritesheet_idle_22
+    21300022: nowingsSpritesheet_idle_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: nowingsSpritesheet_idle_4
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 320
+        width: 55
+        height: 155
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nowingsSpritesheet_idle_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 320
+        width: 55
+        height: 155
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nowingsSpritesheet_idle_6
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 320
+        width: 55
+        height: 155
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nowingsSpritesheet_idle_7
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 320
+        width: 55
+        height: 155
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nowingsSpritesheet_idle_12
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 160
+        width: 55
+        height: 155
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nowingsSpritesheet_idle_13
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 160
+        width: 55
+        height: 155
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nowingsSpritesheet_idle_14
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 160
+        width: 55
+        height: 155
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nowingsSpritesheet_idle_15
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 160
+        width: 55
+        height: 155
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nowingsSpritesheet_idle_20
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 55
+        height: 155
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nowingsSpritesheet_idle_21
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 55
+        height: 155
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nowingsSpritesheet_idle_22
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 55
+        height: 155
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nowingsSpritesheet_idle_23
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 0
+        width: 55
+        height: 155
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

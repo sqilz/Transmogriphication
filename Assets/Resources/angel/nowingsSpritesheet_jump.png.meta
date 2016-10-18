@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: e4dd6b12ad7ee0a468b3a72b7baa1103
+timeCreated: 1426100958
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: nowingsSpritesheet_jump_0
+    21300002: nowingsSpritesheet_jump_1
+    21300004: nowingsSpritesheet_jump_2
+    21300006: nowingsSpritesheet_jump_3
+    21300008: nowingsSpritesheet_jump_4
+    21300010: nowingsSpritesheet_jump_5
+    21300012: nowingsSpritesheet_jump_6
+    21300014: nowingsSpritesheet_jump_7
+    21300016: nowingsSpritesheet_jump_8
+    21300018: nowingsSpritesheet_jump_9
+    21300020: nowingsSpritesheet_jump_10
+    21300022: nowingsSpritesheet_jump_11
+    21300024: nowingsSpritesheet_jump_12
+    21300026: nowingsSpritesheet_jump_13
+    21300028: nowingsSpritesheet_jump_18
+    21300030: nowingsSpritesheet_jump_19
+    21300032: nowingsSpritesheet_jump_20
+    21300034: nowingsSpritesheet_jump_21
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: nowingsSpritesheet_jump_3
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 320
+        width: 55
+        height: 155
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nowingsSpritesheet_jump_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 320
+        width: 65
+        height: 155
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nowingsSpritesheet_jump_6
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 320
+        width: 60
+        height: 140
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nowingsSpritesheet_jump_7
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 320
+        width: 80
+        height: 135
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nowingsSpritesheet_jump_11
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 160
+        width: 90
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nowingsSpritesheet_jump_12
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 160
+        width: 55
+        height: 155
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nowingsSpritesheet_jump_13
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 160
+        width: 55
+        height: 155
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nowingsSpritesheet_jump_18
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 55
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nowingsSpritesheet_jump_19
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 55
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nowingsSpritesheet_jump_20
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 55
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nowingsSpritesheet_jump_21
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 0
+        width: 55
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
